@@ -11,3 +11,15 @@
   text-align: center;
   justify-content: center;
 }
+
+.titleText {
+  text-align: center;
+  justify-content: center;
+  font-size: 60px;
+}
+
+.contactsText {
+  text-align: center;
+  justify-content: center;
+  font-size: 30px;
+}
